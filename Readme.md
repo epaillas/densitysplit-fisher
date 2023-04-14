@@ -1,6 +1,6 @@
 ## Constraining $\nu \Lambda$CDM using density-split clustering
 
-This repository contains the source code to generate all figures in the paper.
+This repository contains the source code to generate all figures in the density-split clustering Fisher forecasts paper (https://arxiv.org/abs/2209.04310).
 
 Requirements:
 - `densitysplit` (https://github.com/epaillas/densitysplit)
