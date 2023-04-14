@@ -98,8 +98,8 @@ def likelihood_monopole_vs_quadrupole(nderiv=1500, ncov=7000, smin=0, smax=150):
     #     r'$\,h^{-1}{\rm Mpc}$', xy=(0.69, 0.75), xycoords='figure fraction',
     #     bbox=dict(ec='0.5', fc='w', boxstyle='round'), fontsize=26)
 
-    plt.savefig('support_figures/pdf/likelihood_monopole_vs_quadrupole.pdf')
-    plt.savefig('support_figures/png/likelihood_monopole_vs_quadrupole.png', dpi=300)
+    plt.savefig('paper_figures/pdf/likelihood_monopole_vs_quadrupole.pdf')
+    plt.savefig('paper_figures/png/likelihood_monopole_vs_quadrupole.png', dpi=300)
 
 if __name__ == '__main__':
 
